@@ -49,7 +49,7 @@ sections:
           required to achieve such extraordinary feat.
         actions:
           - label: Listen
-            url: /blog/e
+            url: /blog/e001-determination-hardwork-success-shishir
             style: primary
             has_icon: true
             icon: arrow-right
