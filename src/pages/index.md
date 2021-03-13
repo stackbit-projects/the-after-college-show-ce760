@@ -40,7 +40,7 @@ sections:
         actions_align: left
         actions_width: auto
         image_alt: Stitcher
-        image_position: top
+        image_position: left
         image_width: fifty
         image_align: left
         image_has_padding: false
