@@ -48,7 +48,7 @@ sections:
           episode, we discuss the planning, time-management, and discipline
           required to achieve such extraordinary feat.
         actions:
-          - label: Learn More
+          - label: Listen
             url: /style-guide
             style: primary
             has_icon: true
