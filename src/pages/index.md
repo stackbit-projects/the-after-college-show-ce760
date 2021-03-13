@@ -40,7 +40,7 @@ sections:
   - type: features_section
     title: Episodes
     features:
-      - title: 'E001 Determination, Hard Work, and Success with Shishir'
+      - title: 'E001 Determination, Hard Work and Success with Shishir'
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
