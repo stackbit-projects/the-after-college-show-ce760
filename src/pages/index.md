@@ -31,7 +31,7 @@ sections:
       - image: images/EN_Google_Podcasts_Badge.svg
         image_alt: Google Podcast
         image_align: center
-      - image: images/US_ListenOn_AmazonMusic_button_black_RGB_5X.png
+      - image: images/spotify-podcast-badge-blk-grn-165x40.svg
         image_alt: Gatsby logo
         image_align: center
       - image: images/logo-4.svg
