@@ -39,7 +39,6 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Episodes
-    subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
