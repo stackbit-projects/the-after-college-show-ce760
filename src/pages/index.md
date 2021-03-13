@@ -10,7 +10,7 @@ sections:
       business and technology to reveal how they’re navigating an ever-changing
       landscape, how they reached there, and what were their biggest learnings.
     actions:
-      - label: Try Free
+      - label: Subscribe to Podcast
         url: /pricing
         style: primary
       - label: Learn More
