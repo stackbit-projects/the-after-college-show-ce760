@@ -28,7 +28,7 @@ sections:
       - image: images/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg
         image_alt: Apple Podcast
         image_align: center
-      - image: images/logo-2.svg
+      - image: images/EN_Google_Podcasts_Badge.svg
         image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
