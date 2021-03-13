@@ -40,7 +40,7 @@ sections:
   - type: features_section
     title: Episodes
     features:
-      - title: The Big Title For the Feature
+      - title: E001 Chapionin
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
