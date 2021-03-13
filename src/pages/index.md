@@ -34,8 +34,7 @@ sections:
       - image: images/spotify-podcast-badge-blk-grn-165x40.svg
         image_alt: Spotify
         image_align: center
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
