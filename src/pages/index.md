@@ -45,7 +45,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/nervous-mustard.png
+        image: images/stichet_169x45.png
       - title_align: left
         content_align: left
         actions: []
