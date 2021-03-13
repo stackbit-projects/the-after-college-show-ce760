@@ -49,7 +49,7 @@ sections:
           required to achieve such extraordinary feat.
         actions:
           - label: Listen
-            url: /style-guide
+            url: /blog/
             style: primary
             has_icon: true
             icon: arrow-right
