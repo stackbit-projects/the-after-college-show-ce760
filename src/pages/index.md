@@ -32,7 +32,7 @@ sections:
         image_alt: Google Podcast
         image_align: center
       - image: images/spotify-podcast-badge-blk-grn-165x40.svg
-        image_alt: Gatsby logo
+        image_alt: Spotify
         image_align: center
       - image: images/logo-4.svg
         image_alt: Sanity logo
