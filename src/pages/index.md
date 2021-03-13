@@ -34,7 +34,7 @@ sections:
       - image: images/spotify-podcast-badge-blk-grn-165x40.svg
         image_alt: Spotify
         image_align: center
-      - image: images/iHeartRadio_Logo_iHR Horizontal Color on Black.png
+      - image: images/Stitcher_Listen_Badge_Color_Light_BG.png
         image_alt: Sanity logo
         image_align: center
       - image: images/logo-5.svg
