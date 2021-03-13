@@ -28,8 +28,7 @@ sections:
       - image: images/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg
         image_alt: Apple Podcast
         image_align: center
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
