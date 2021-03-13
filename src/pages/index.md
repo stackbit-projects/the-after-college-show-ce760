@@ -29,7 +29,7 @@ sections:
         image_alt: Apple Podcast
         image_align: center
       - image: images/EN_Google_Podcasts_Badge.svg
-        image_alt: Netlify logo
+        image_alt: Google POdcast
         image_align: center
       - image: images/logo-3.svg
         image_alt: Gatsby logo
