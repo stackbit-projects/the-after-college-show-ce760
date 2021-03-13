@@ -25,7 +25,7 @@ sections:
     title: Currently streaming at
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg
         image_alt: Contentful logo
         image_align: center
       - title: lorem-ipsum
