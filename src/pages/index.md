@@ -4,9 +4,11 @@ sections:
   - type: hero_section
     title: The After College Show
     subtitle: Inspiring stories of everyday professionals
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      The After College Show is a new podcast about life after college! Shivam
+      Singh talks to a diverse cast of professionals at the frontiers of
+      business and technology to reveal how they’re navigating an ever-changing
+      landscape, how they reached there, and what were their biggest learnings.
     actions:
       - label: Try Free
         url: /pricing
