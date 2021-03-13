@@ -28,6 +28,7 @@ sections:
       - image: images/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg
         image_alt: Contentful logo
         image_align: center
+        title: Apple Podcast
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
