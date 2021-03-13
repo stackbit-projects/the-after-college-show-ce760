@@ -37,6 +37,7 @@ sections:
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
+    subtitle: a
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
