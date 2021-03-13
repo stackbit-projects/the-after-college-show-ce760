@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: The After College Show
-    subtitle: Story of everyday professionals
+    subtitle: Inspiring stories of everyday professionals
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
