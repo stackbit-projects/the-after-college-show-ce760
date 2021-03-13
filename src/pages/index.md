@@ -41,7 +41,6 @@ sections:
     title: Episodes
     features:
       - title: 'E001 Determination, Hard Work and Success with Shishir'
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           Shishir was obese for most of his life until one day he decided to
           change that. Despite working full time and long hours, he made a plan
