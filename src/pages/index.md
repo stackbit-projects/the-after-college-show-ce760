@@ -60,9 +60,6 @@ sections:
       - image_alt: Stitcher
         image_align: center
         image_width: twenty-five
-      - image: images/logo-6.svg
-        image_alt: Next.js logo
-        image_align: center
       - image: images/logo-7.svg
         image_alt: Gridsome logo
         image_align: center
