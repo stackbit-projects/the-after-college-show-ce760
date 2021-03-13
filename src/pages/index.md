@@ -26,7 +26,7 @@ sections:
     align: center
     grid_items:
       - image: images/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg
-        image_alt: Contentful logo
+        image_alt: Apple Podcast
         image_align: center
       - title: lorem-ipsum
         subtitle: lorem-ipsum
