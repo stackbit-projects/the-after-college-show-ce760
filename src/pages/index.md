@@ -42,10 +42,12 @@ sections:
     features:
       - title: 'E001 Determination, Hard Work and Success with Shishir'
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Shishir was obese for most of his life until one day he decided to
+          change that. Despite working full time and long hours, he made a plan
+          and stuck to it. A year later, Shishir was flouting 6 packs! In this
+          episode, we discuss the planning, time-management, and discipline
+          required to achieve such extraordinary feat.
         actions:
           - label: Learn More
             url: /style-guide
