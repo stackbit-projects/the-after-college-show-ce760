@@ -34,7 +34,7 @@ sections:
       - image: images/spotify-podcast-badge-blk-grn-165x40.svg
         image_alt: Spotify
         image_align: center
-    grid_cols: four
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
