@@ -13,7 +13,7 @@ sections:
       - label: Subscribe to Podcast
         url: /pricing
         style: primary
-    image: images/classic/hero.png
+    image: images/The after college show.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
